@@ -19,21 +19,22 @@
   },
   "frameworks": [
     "AVFoundation",
+    "AVKit",
     "AdSupport",
     "CoreGraphics",
     "CoreLocation",
     "CoreTelephony",
     "Foundation",
-    "UIKit",
-    "CryptoKit",
     "StoreKit",
-    "SystemConfiguration"
+    "SystemConfiguration",
+    "UIKit"
   ],
   "weak_frameworks": [
+    "Combine",
     "CryptoKit",
     "SafariServices",
-    "WebKit",
-    "Combine"
+    "SwiftUI",
+    "WebKit"
   ],
   "static_framework": true,
   "pod_target_xcconfig": {
