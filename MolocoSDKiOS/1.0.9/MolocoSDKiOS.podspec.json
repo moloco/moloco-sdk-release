@@ -32,7 +32,8 @@
   "weak_frameworks": [
     "CryptoKit",
     "SafariServices",
-    "WebKit"
+    "WebKit",
+    "Combine"
   ],
   "static_framework": true,
   "pod_target_xcconfig": {
