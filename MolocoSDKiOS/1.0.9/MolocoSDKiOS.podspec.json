@@ -15,7 +15,7 @@
   "swift_version": "5.0",
   "module_name": "MolocoSDKiOS",
   "platforms": {
-    "ios": "13.0"
+    "ios": "12.0"
   },
   "frameworks": [
     "AVFoundation",
