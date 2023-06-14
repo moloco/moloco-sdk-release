@@ -9,7 +9,7 @@
     "text": "\nCopyright 2023 Moloco, Inc. All rights reserved.\n\n"
   },
   "source": {
-    "http": "https://moloco-ios-build.s3.amazonaws.com/moloco-sdk/MolocoCustomAdapterAppLovin-1.0.9.0.zip",
+    "http": "https://moloco-ios-build.s3.amazonaws.com/release-candidate/MolocoCustomAdapterAppLovin-1.0.9.0.zip",
     "type": "zip"
   },
   "swift_version": "5.0",

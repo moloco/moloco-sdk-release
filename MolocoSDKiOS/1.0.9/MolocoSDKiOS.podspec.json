@@ -9,7 +9,7 @@
     "text": "\nCopyright 2023 Moloco, Inc. All rights reserved.\n\n"
   },
   "source": {
-    "http": "https://moloco-ios-build.s3.amazonaws.com/moloco-sdk/MolocoSDK-1.0.9.zip",
+    "http": "https://moloco-ios-build.s3.amazonaws.com/release-candidate/MolocoSDK-1.0.9.zip",
     "type": "zip"
   },
   "swift_version": "5.0",
