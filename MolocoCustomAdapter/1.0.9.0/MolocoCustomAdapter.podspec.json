@@ -18,10 +18,18 @@
     "ios": "12.0"
   },
   "frameworks": [
-    "Foundation",
-    "UIKit",
     "AdSupport",
-    "CoreTelephony"
+    "CoreLocation",
+    "CoreTelephony",
+    "Foundation",
+    "StoreKit",
+    "SystemConfiguration",
+    "UIKit"
+  ],
+  "weak_frameworks": [
+    "Combine",
+    "SwiftUI",
+    "WebKit"
   ],
   "static_framework": true,
   "pod_target_xcconfig": {
