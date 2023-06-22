@@ -1,1 +1,6 @@
-1.0.9+0
+1.1.0+0
+
+
+- Fix for visual black padding in banners  
+- Various fixes for SKAdNetwork fields , 
+- Updates to allow SDK to be built on an iOS 12 target
