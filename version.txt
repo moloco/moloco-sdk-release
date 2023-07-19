@@ -1,6 +1,4 @@
-1.1.0+0
+1.1.1+0
 
 
-- Fix for visual black padding in banners  
-- Various fixes for SKAdNetwork fields , 
-- Updates to allow SDK to be built on an iOS 12 target
+- Improvements to video player - Bid request bug fixes - Inclusion of SDK bundle version number to resolve issue with App Store submission
