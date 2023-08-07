@@ -1,4 +1,7 @@
-1.1.1+0
+1.1.2+0
 
 
-- Improvements to video player - Bid request bug fixes - Inclusion of SDK bundle version number to resolve issue with App Store submission
+- Support for AppLovin MAX SDK version 11.11.2
+ - Support for IronSource SDK version 7.4.0 
+- Improved logic for retrieving the rewarded amount from the AppLovin MAX dashboard.
+
