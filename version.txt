@@ -1,7 +1,9 @@
-1.1.2+0
+1.2.0+0
 
 
-- Support for AppLovin MAX SDK version 11.11.2
- - Support for IronSource SDK version 7.4.0 
-- Improved logic for retrieving the rewarded amount from the AppLovin MAX dashboard.
+ - Fix for supporting SKADN 4.0 
+ - Improvements to geolocation
+ - Improvements to URL resolving 
+ - Check for authorization in iOS 14+ before requesting IDFA 
+ - Support for new iPhone 15 device identifiers in Bid Request
 
