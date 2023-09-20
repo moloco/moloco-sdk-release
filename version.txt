@@ -1,9 +1,4 @@
-1.2.0+0
+1.2.0+1
 
 
- - Fix for supporting SKADN 4.0 
- - Improvements to geolocation
- - Improvements to URL resolving 
- - Check for authorization in iOS 14+ before requesting IDFA 
- - Support for new iPhone 15 device identifiers in Bid Request
-
+Support for IronSource SDK 7.5.0
