@@ -1,5 +1,4 @@
-1.3.0+0
+1.3.0+1
 
 
-- Native Ads support 
- - Bug fixes
+Support for AppLovin SDK 12.0.0
