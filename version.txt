@@ -1,4 +1,4 @@
-1.4.0+0
+1.4.1+0
 
 
-AdMob Adapter & Bug Fixes
+Xcode 14.1 support
