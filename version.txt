@@ -1,4 +1,4 @@
-2.1.1+0
+2.2.0+0
 
 
-New public APIs visible in Objective-C
+Fix for MRAID playable rendering and enhanced management for handling video interstitials.
