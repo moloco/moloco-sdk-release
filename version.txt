@@ -1,4 +1,4 @@
-3.0.0+0
+2.2.3+0
 
 
-Moloco SDK Release 3.0.0
+Scopely debug build
