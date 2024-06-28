@@ -1,4 +1,4 @@
 3.0.0+1
 
 
-Custom Adapter 3.0.0.1
+AppLovin Custom Adapter 3.0.0.1
