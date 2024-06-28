@@ -1,4 +1,4 @@
-2.2.4+0
+3.0.0+1
 
 
-Private build
+Custom Adapter 3.0.0.1
