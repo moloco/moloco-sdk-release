@@ -1,4 +1,4 @@
-3.1.2+0
+3.0.2+4
 
 
-Improvements to address close button and sound icons.
+testing chmod fix
