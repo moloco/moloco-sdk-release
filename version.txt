@@ -1,4 +1,4 @@
-3.3.1+0
+3.4.0+0
 
 
-iOS SDK 3.3.1 RC
+Release Candidate for iOS SDK 3.4.0
