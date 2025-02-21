@@ -1,4 +1,4 @@
 3.7.0+0
 
 
-3.7.0 v3
+Release Candidate for iOS SDK 3.7.0 Version 4
