@@ -1,4 +1,4 @@
-3.7.0+0
+3.7.1+0
 
 
-3.7.0 v3
+Moloco SDK IOS 3.7.1 release
