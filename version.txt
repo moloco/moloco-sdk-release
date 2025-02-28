@@ -1,4 +1,4 @@
 3.7.1+0
 
 
-Moloco SDK IOS 3.7.1 release
+Release Candidate for iOS SDK 3.7.1 V2
