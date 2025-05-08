@@ -1,4 +1,4 @@
-3.9.1+0
+3.9.2+0
 
 
-Release Candidate for iOS SDK Version 3.9.1 
+Release Candidate for iOS SDK 3.9.2 - iLRD testing
