@@ -1,4 +1,4 @@
 3.10.0+0
 
 
-Release Candidate for iOS SDK 3.10.0 - iLRD testing
+Release Candidate for iOS SDK 3.10.0
