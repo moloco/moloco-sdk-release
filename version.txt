@@ -1,4 +1,4 @@
-3.10.1+0
+3.11.0+0
 
 
-Release Candidate for iOS SDK 3.10.1 - Hotfix for Crash + Updated Version
+Release candidate for iOS SDK 3.11.0 version
