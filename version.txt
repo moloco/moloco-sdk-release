@@ -1,4 +1,4 @@
 3.12.1+0
 
 
-Release Candidate for iOS SDK 3.12.1
+Release Candidate For iOS SDK 3.12.1 Version
