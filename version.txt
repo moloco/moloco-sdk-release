@@ -1,4 +1,4 @@
 4.1.0+0
 
 
-Release Candidate for iOS SDK Custom Adapter 4.1.0
+xcode 26
