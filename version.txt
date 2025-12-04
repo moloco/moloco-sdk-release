@@ -1,4 +1,4 @@
 4.2.0+0
 
 
-Release Candidate for iOS SDK 4.2.0
+Release 4.2.0 on mac 15
