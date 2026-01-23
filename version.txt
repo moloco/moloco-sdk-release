@@ -1,4 +1,4 @@
 4.3.0+0
 
 
-Update Foundation to import  from implementation only
+RC for iOS SDK 4.2.0
