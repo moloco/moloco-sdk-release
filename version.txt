@@ -1,4 +1,4 @@
 4.4.0+0
 
 
-Release Candidate For testing IOS SDK-5391 
+Release 4.4.0 2
