@@ -1,4 +1,4 @@
 4.4.0+0
 
 
-Release Candidate for iOS SDK 4.4.0
+RC for iOS SDK 4.4.0
