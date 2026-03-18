@@ -1,4 +1,4 @@
 4.5.0+0
 
 
-Release Candidate iOS SDK 4.5.0
+R Candidate for iOS SDK 4.5.0
