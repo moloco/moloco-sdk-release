@@ -1,4 +1,4 @@
-4.5.0+0
+4.7.1+0
 
 
-Release Candidate iOS SDK 4.5.0
+Release Candidate For  testing SDK-6766
