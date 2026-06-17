@@ -1,4 +1,4 @@
-4.5.0+0
+4.8.0+0
 
 
-Release Candidate iOS SDK 4.5.0
+RC for 4.8.0 iOS Demo App
